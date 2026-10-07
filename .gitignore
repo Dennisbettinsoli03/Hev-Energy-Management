@@ -1,0 +1,14 @@
+# MATLAB autosave and editor backups
+*.asv
+*.m~
+*.autosave
+
+# Simulink cache (in case models are added)
+*.slxc
+slprj/
+
+# OS files
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
